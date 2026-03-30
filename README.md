@@ -13,3 +13,8 @@ Sou Gustavo Vinícius De Pádua Milhomem, tenho 18 anos, moro em Sobradinho - DF
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+##Onde me encontrar:
+
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/gustavo-vinícius-1443133a0/)
+[![Instagram](https://shields.io)](https://www.instagram.com/Gustavo_V1ni)
