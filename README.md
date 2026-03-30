@@ -59,7 +59,6 @@ Busco oportunidades para adquirir experiência na área de TI e evoluir profissi
 ### Pessoais:
 - Organização
 - Comprometimento
-- Facilidade de aprendizado
 - Trabalho em equipe
 
 ---
