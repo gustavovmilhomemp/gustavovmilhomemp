@@ -4,11 +4,11 @@ Sou Gustavo Vinícius De Pádua Milhomem, tenho 18 anos, moro em Sobradinho - DF
 
 - Atualmente estou aprendendo e estudando Python
 
-  
-##Onde me encontrar:
 
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/gustavo-vinícius-1443133a0/)
-[![Instagram](https://shields.io)](https://www.instagram.com/Gustavo_V1ni)
+### 📱 Redes Sociais
+<a href="https://linkedin.com/in/gustavo-vinícius-1443133a0/" target="_blank"><img src="https://githubusercontent.com" width="30" height="30" /></a>
+<a href="https://instagram.com/gustavo_V1ni" target="_blank"><img src="https://githubusercontent.com" width="30" height="30" /></a>
+
 
 ### 🤖 Linguagens 
 <img 
