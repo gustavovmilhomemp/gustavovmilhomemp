@@ -11,7 +11,7 @@ Busco oportunidades para adquirir experiência na área de TI e evoluir profissi
 ## 🎓 Formação Acadêmica
 
 - Ensino Médio concluído no CEM 01 de Sobradinho (2025)
-- Análise e Desenvolvimento de Sistemas – CEUB (em andamento)
+- Análise e Desenvolvimento de Sistemas – CEUB 1º Semestre (em andamento)
 
 ---
 
