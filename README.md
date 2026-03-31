@@ -23,20 +23,6 @@ Busco oportunidades para adquirir experiência na área de TI e evoluir profissi
 
 ---
 
-## 💻 Projetos
-
-### 🗳️ Sistema de Votação em Python
-- Simulação de contagem de votos
-- Utilização de estruturas condicionais e variáveis
-- Cálculo de porcentagem de votos nulos e brancos
-
-**Aprendizados:**
-- Lógica de programação
-- Estrutura de decisão
-- Organização de código
-
----
-
 ### 📊 Exercícios em Python
 - Desenvolvimento de algoritmos básicos
 - Prática com entrada e saída de dados
@@ -94,6 +80,6 @@ Python (em aprendizado)
 
 ## 📌 Informações Adicionais
 
-- Resido no Distrito Federal
+- Moro no Distrito Federal
 - Disponível para oportunidades de estágio
 - Interesse em desenvolvimento de software e tecnologia
