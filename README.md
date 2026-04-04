@@ -8,14 +8,14 @@ Busco oportunidades para adquirir experiência na área de TI e evoluir profissi
 
 ---
 
-## 🎓 Formação Acadêmica
+## - Formação Acadêmica
 
 - Ensino Médio concluído no CEM 01 de Sobradinho (2025)
 - Análise e Desenvolvimento de Sistemas – CEUB 1º Semestre (em andamento)
 
 ---
 
-## 📚 Cursos e Aprendizados
+## - Cursos e Aprendizados
 
 - Cursos online voltados para lógica de programação e fundamentos de TI
 - Estudando Python
@@ -23,7 +23,7 @@ Busco oportunidades para adquirir experiência na área de TI e evoluir profissi
 
 ---
 
-### 📊 Exercícios em Python
+### - Exercícios em Python
 - Desenvolvimento de algoritmos básicos
 - Prática com entrada e saída de dados
 - Cálculo de médias e operações matemáticas
@@ -35,7 +35,7 @@ Busco oportunidades para adquirir experiência na área de TI e evoluir profissi
 
 ---
 
-## 🧠 Habilidades
+## - Habilidades
 
 ### Técnicas:
 - Python (básico)
@@ -49,7 +49,7 @@ Busco oportunidades para adquirir experiência na área de TI e evoluir profissi
 
 ---
 
-## 🎯 Objetivo Profissional
+## - Objetivo Profissional
 
 Atuar na área de tecnologia, buscando desenvolver habilidades práticas e adquirir experiência no mercado de trabalho.
 
@@ -63,7 +63,7 @@ Atuar na área de tecnologia, buscando desenvolver habilidades práticas e adqui
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## - Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -78,7 +78,7 @@ Python (em aprendizado)
 
 ---
 
-## 📌 Informações Adicionais
+## - Informações Adicionais
 
 - Moro no Distrito Federal
 - Disponível para oportunidades de estágio
