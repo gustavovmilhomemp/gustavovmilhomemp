@@ -99,6 +99,8 @@ Atuar na área de tecnologia, buscando desenvolver habilidades práticas e adqui
 />
 
 <br/>
+<br/>
+---
 
 ## - Informações Adicionais
 
