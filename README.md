@@ -11,7 +11,7 @@ Busco oportunidades para adquirir experiência na área de TI e evoluir profissi
 ## - Formação Acadêmica
 
 - Ensino Médio concluído no CEM 01 de Sobradinho (2025)
-- Análise e Desenvolvimento de Sistemas – CEUB 1º Semestre (em andamento)
+- Análise e Desenvolvimento de Sistemas – CEUB 2º Semestre (em andamento)
 
 ---
 
@@ -63,8 +63,32 @@ Atuar na área de tecnologia, buscando desenvolver habilidades práticas e adqui
 
 ---
 
-## - Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 <img 
     align="left" 
     alt="Python" 
@@ -74,9 +98,8 @@ Atuar na área de tecnologia, buscando desenvolver habilidades práticas e adqui
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-Python (em aprendizado)
-
----
+<br/>
+<br/>
 
 ## - Informações Adicionais
 
